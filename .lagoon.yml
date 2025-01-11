@@ -1,6 +1,6 @@
 docker-compose-yaml: docker-compose.yml
 
-project: drupal-base
+project: lagoon-drupal-example
 
 tasks:
   pre-rollout:
